@@ -3,7 +3,7 @@
 Este repositorio muestra la primer practica creada en NODE-RED donde se crea un grupo y se visualiza los valores asignados
 
 1°-INSTALACION DE LA DASHBOARD
-![]()
+![](https://github.com/AmaiCisneros/Inicio-Node-Red/blob/main/1.png)
 
 2|-Instalacion del node red dashboard que se solicita :
 ![]()
